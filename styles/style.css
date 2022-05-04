@@ -1,0 +1,51 @@
+marquee{
+  margin: 1px;
+  color: #5c3203;
+  padding: 10px ;
+  font-size: 80px;
+  text-align: center;
+}
+
+.bg-orange{
+  background-color: rgb(247, 241, 233);
+
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #00539F;
+    text-shadow: 3px 3px 1px #E49233;
+    text-align: center;
+  }
+
+table.t1{
+  font-size: 20px;
+  margin-left:auto; 
+  margin-right:auto;
+  width: 80%;
+  text-align: center;
+  border-collapse: 8px;
+  height: 300px;
+}
+
+.td{
+  text-align: left;
+  padding: auto;
+}
+
+.th{
+  font-size: 25px;
+  border-bottom: 3px dashed;
+}
+
+
+
+  p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+    text-align: center;
+  }
+
+
